@@ -1,0 +1,18 @@
+study,year,severe,total,prevalence,outcome_char,outcome_cat,level_old,level
+Barraviera et al,1989,2,40,0.05,Mortality,mortality,4,4
+Bucaretchi et al,2001,15,73,0.21,Severe Grade,severity,3,3
+Bucaretchi et al,2002,18,31,0.58,Severe Grade/ARF,severity,4,4
+Gaus et al,2014,10,110,0.09,Severe Grade,severity,4,3
+Janes et al,2010,18,142,0.12,SSS,severity,4,3
+Jorge et al,1999,5,801,0.006,Amputation,other,3,4
+Milani Jr et al,1997,3,29,0.1,Death,mortality,4,4
+Moss at al,1998,19,41,0.46,Severity Grading Scale,severity,3,4
+Nicoleti et al,2010,20,675,0.03,Severity Grading Scale,severity,3,4
+Otero et al,2002,18,39,0.46,"Death/sequelae ARF/amputation, muscle loss etc.",other,4,4
+Pinho et al,2005,29,100,0.29,ARF,other,3,4
+Ribeiro et al,2001,111,779,0.14,Necrosis,other,4,4
+Santoro et al,2008,11,38,0.28,Combined local tissue swelling and bleeding,other,3,4
+Seifert et al,2011,11,60,0.18,Bleeding or severe lab abnormalities,other,4,4
+Thomas et al,1998,14,103,0.14,Thrombotic complication/death,mortality,4,4
+White et al,1991,23,67,0.34,Severity Grade,severity,4,4
+Yin et al,2011,44,202,0.22,Systemic bleeding,other,3,4
